@@ -16,8 +16,8 @@ Instead of just studying theory, my focus is on using advanced SQL and Python to
 * Building a foundation to transition into Analytics Engineering (dbt & Cloud Data Warehouses).
 
 ### 📌 Featured Work
-* **[Tax Fraud Detection Pipeline](link-to-repo):** A machine learning pipeline built to clean, process, and analyze financial data from the Tunisia Ministry of Finance.
-* **[ICT Hub Chatbot](link-to-repo):** A rule-based text processing and logic workflow built with Python.
+* **[Tax Fraud Detection Pipeline](https://github.com/Omar-Elhadidi/tax-fraud-detection-tunisia):** A machine learning pipeline built to clean, process, and analyze financial data from the Tunisia Ministry of Finance.
+* **[ICT Hub Chatbot](https://github.com/Omar-Elhadidi/icthub-chatbot):** A rule-based text processing and logic workflow built with Python.
 * **[Upcoming: SQL Data Dashboard]** - *Currently in development.*
 
 ### 📫 Let's Connect
