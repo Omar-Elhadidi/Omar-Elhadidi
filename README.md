@@ -18,7 +18,7 @@ Instead of just studying theory, my focus is on using advanced SQL and Python to
 ### 📌 Featured Work
 * **[Tax Fraud Detection Pipeline](https://github.com/Omar-Elhadidi/tax-fraud-detection-tunisia):** A machine learning pipeline built to clean, process, and analyze financial data from the Tunisia Ministry of Finance.
 * **[ICT Hub Chatbot](https://github.com/Omar-Elhadidi/icthub-chatbot):** A rule-based text processing and logic workflow built with Python.
-* * **[NovaBite](https://github.com/Omar-Elhadidi/NovaBite):** A full-stack restaurant web application built with React.js, Node.js, Express, and MongoDB.
+* **[NovaBite](https://github.com/Omar-Elhadidi/NovaBite):** A full-stack restaurant web application built with React.js, Node.js, Express, and MongoDB.
 * **[Upcoming: SQL Data Dashboard]** - *Currently in development.*
 
 ### 📫 Let's Connect
