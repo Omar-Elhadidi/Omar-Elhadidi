@@ -42,7 +42,6 @@ Instead of just studying theory, my focus is on using advanced SQL and Python to
 | 🏆 [Tax Fraud Detection Pipeline](https://github.com/Omar-Elhadidi/tax-fraud-detection-tunisia) | ML pipeline to clean, process, and analyze financial data from the Tunisia Ministry of Finance — **6th place out of 286 teams worldwide** |
 | 💬 [ICT Hub Chatbot](https://github.com/Omar-Elhadidi/icthub-chatbot) | Rule-based text processing and logic workflow built with Python |
 | 🍽️ [NovaBite](https://github.com/Omar-Elhadidi/NovaBite) | Full-stack restaurant web app built with React.js, Node.js, Express, and MongoDB |
-| 🔧 Upcoming: SQL Data Dashboard | *Currently in development* |
 
 ---
 
