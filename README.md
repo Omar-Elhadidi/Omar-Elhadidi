@@ -1,8 +1,8 @@
 # Hi there, I'm Omar Elhadidi 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Omar-Elhadidi&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Elhadidi-0077B5?logo=linkedin)](https://www.linkedin.com/in/omar-elhadidii/)
 [![Email](https://img.shields.io/badge/Email-omar.t.elhadidi%40gmail.com-D14836?logo=gmail)](mailto:omar.t.elhadidi@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Omar-Elhadidi&color=blue)
 
 **SQL & Python Data Specialist | Computer Engineering Undergrad**
 
