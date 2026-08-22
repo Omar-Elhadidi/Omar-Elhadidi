@@ -4,8 +4,6 @@
 
 Currently training through the **Digital Egypt Pioneers Initiative (DEPI)** — Microsoft Data Engineer track. Building data pipelines with **SQL**, **PySpark**, and the **Medallion Architecture** in Microsoft Fabric.
 
-🏆 Ranked **#6 out of 286 teams worldwide** in the Zindi Tunisian Fraud Detection Challenge.
-
 ---
 
 ### 🛠️ Tech Stack
